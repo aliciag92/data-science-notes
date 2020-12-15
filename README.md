@@ -33,4 +33,4 @@ nothing to commit, working tree clean
 3. Typed 'git status' to check that filename is now green (showed green modified: README.md)
 4. Typed 'git commit -m "Notes are green and should be on GitHub's repo"
 5. Typed 'git push' as it uploads all of updated comments
-6. Again, do not forget to save new content!!
+6. Again, do not forget to save new content once you are done adding new content here on VS code!!
