@@ -26,3 +26,11 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
+##More steps completed
+1. Once notes above added, typed 'git status' in terminal (showed red modified: README.md)
+2. Typed 'git add README.md'
+3. Typed 'git status' to check that filename is now green (showed green modified: README.md)
+4. Typed 'git commit -m "Notes are green and should be on GitHub's repo"
+5. Typed 'git push' as it uploads all of updated comments
+6. Again, do not forget to save new content!!
