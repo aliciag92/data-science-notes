@@ -11,21 +11,6 @@ This repository is for holding my notes
 5. Opened up VS code by inserting (code README.md) in terminal.
 6. DO NOT forget to SAVE
 
-##Example steps
-aliciagonzalez@Alicias-MacBook-Air codeup-data-science % git clone git@github.com:aliciag92/data-science-notes.git
-Cloning into 'data-science-notes'...
-remote: Enumerating objects: 4, done.
-remote: Counting objects: 100% (4/4), done.
-remote: Compressing objects: 100% (3/3), done.
-remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (4/4), done.
-aliciagonzalez@Alicias-MacBook-Air codeup-data-science % cd data-science-notes 
-aliciagonzalez@Alicias-MacBook-Air data-science-notes % code README.md
-aliciagonzalez@Alicias-MacBook-Air data-science-notes % git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
 
 ##More steps completed
 1. Once notes above added, typed 'git status' in terminal (showed red modified: README.md)
